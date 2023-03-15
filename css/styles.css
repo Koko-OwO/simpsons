@@ -1,22 +1,58 @@
 * {
     box-sizing: border-box;
+    text-decoration: none !important;
 }
 body {
     padding: 0;
     margin: 0;
+
+
    
 }
 .ola {
     background-color: #ffd90f;
+    
 }
 
 
 .slider {
     width: 100%;
     height: auto;
+    
 }
 .cuerpo {
     margin-top: 2rem;
     margin-bottom: 2rem;
     height: 30rem;
+}
+.safiro {
+    height: 25rem;
+}
+.sasa {
+    height: 5rem;
+
+}
+a:hover {
+    text-decoration: none;
+    color: white;
+    font-size: 150%;
+}
+a {
+    color: red ;
+
+    border-radius: 25%;
+}
+
+.olaa{
+    width: 8%;
+    
+}
+.ico {
+    background-color: none !important;
+}
+.ico:hover {
+    width: 65%;
+}
+.icono:hover {
+    width: 120%;
 }
