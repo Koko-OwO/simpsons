@@ -27,11 +27,10 @@ body {
 }
 .safiro {
     height: 25rem;
+    padding-top: 2rem;
+ 
 }
-.sasa {
-    height: 5rem;
 
-}
 a:hover {
     text-decoration: none;
     color: white;
@@ -53,6 +52,21 @@ a {
 .ico:hover {
     width: 65%;
 }
+
 .icono:hover {
-    width: 120%;
+    width: 90%;
+}
+.boton {
+  
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+}
+.siguenos {
+    margin-right: 10%;
+}
+.panda {
+    height:25rem;
+    padding-top: 2rem;
+    margin-bottom: 2rem;
 }
