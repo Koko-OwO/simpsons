@@ -5,9 +5,14 @@
 body {
     padding: 0;
     margin: 0;
+    font-family: son !important;
 
 
    
+}
+@font-face {
+    font-family: son;
+    src: url(../font/son.otf);
 }
 .ola {
     background-color: #ffd90f;
